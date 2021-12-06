@@ -1,0 +1,12 @@
+API = Application Programming Interface
+
+https://www.w3schools.com/jquery/ajax_serialize.asp
+
+https://www.w3schools.com/sql/
+
+https://www.w3schools.com/php/func_mysqli_fetch_row.asp
+
+https://www.w3schools.com/php/func_array_count.asp
+
+
+https://www.w3schools.com/php/func_mysqli_num_rows.asp
